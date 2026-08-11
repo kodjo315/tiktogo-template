@@ -1,2 +1,0 @@
-# tiktogo-template
-Template tiktogo 
